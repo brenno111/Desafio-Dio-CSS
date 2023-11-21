@@ -1,0 +1,135 @@
+body {
+    background-color: black;
+    text-align: center;
+    
+  }
+
+.banner {
+    background-image: linear-gradient(rgba(0, 0, 0, .6), rgba(49, 168, 221, .2), rgba(0, 0, 0, .6)), url('assets/images/banner.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 600px;
+    padding-top: 60px;
+    border-bottom: 1px solid #33A8DB80;
+  }
+
+  .banner .banner-content {
+    color: white;
+    width: 600px;
+    margin: auto;
+    text-align: center;
+  }
+
+ 
+
+
+  h1{
+    color: #33a8db;
+    font-size: 50px;
+    font-weight: bold;
+  }
+
+h2{
+    color: #33a8db;
+    text-align: right;
+    font-size: 40px;
+}
+
+  p{
+    color: white;
+    font-size: 19px;
+    width: 100%;
+    text-align: center;
+    
+  }
+
+  button{
+  height: 50px;
+  width: 500ox;
+  font-size: 15px;
+  border-bottom: 20px 20px 20px 20px solid blue;
+  background-color: transparent;
+  color: #31a8dd;
+  
+  
+  }
+
+  #transform-world {
+    height: 210px;
+    background-size: cover;
+    background-image: url("assets/images/woman-code.png");
+    background-attachment: fixed;
+    border-top: 1px solid #33A8DB80;
+    border-bottom: 1px solid #33A8DB80;
+    padding: 200px;
+  }
+  
+
+
+  #transform-world p {
+    font-weight: 900;
+    font-size:45px;
+    text-transform: lowercase;
+    max-width: 250px;
+    text-shadow: 3px 2px #33A8DB;
+  }
+
+  #professional-challenges {
+    text-align: center;
+    width: 100%;
+  }
+
+
+  footer {
+    padding: 60px 0;
+    text-align: center;
+    background-image: linear-gradient(rgba(50, 168, 219, .0), rgba(50, 168, 219, .2));
+    border-top: 1px solid #33A8DB80;
+  }
+
+  .banner .banner-content button {
+    color: #31A8DD;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    background-color: transparent;
+    border-image: linear-gradient(#3BA1CD, #1572B7);
+    border-image-slice: 10;
+   
+  }
+
+
+  #course-content {
+    width: 800px;
+    text-align: center;
+  }
+  
+  #course-content .modules-list {
+    margin: 24px 50%;
+    text-align: center;
+  }
+  
+  #course-content .modules-list .module {
+    color: white;
+    width: 530px;
+    margin: 0 auto 24px;
+    border: 1px solid #33A8DB;
+    background-color: #252525;
+    padding: 16px;
+    border-radius: 100px;
+    box-shadow: inset -5px 6px 8px rgba(0, 0, 0, .7);
+    
+  
+  }
+  
+  #course-content .modules-list .module span {
+    color: #33A8DB;
+  }
+
+#evolua{
+  text-align: center;
+}
+
+#modulos{
+  text-align: center;
+  width: 167%;
+}
